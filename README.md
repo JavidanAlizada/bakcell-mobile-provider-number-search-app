@@ -1,4 +1,4 @@
-# nomre.bakcell.com-backend
+# bakcell-mobile-provider-number-search-app
 Develop backend side of https://nomre.bakcell.com site where customers can search phone numbers (hereinafter MSISDN) according to specific pattern and reserve it.
 
 ### Steps to compile and run project on local machine:
